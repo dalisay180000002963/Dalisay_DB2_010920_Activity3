@@ -1,0 +1,1 @@
+select crs_code from "010920".class where crs_code = 'CIS-220'
